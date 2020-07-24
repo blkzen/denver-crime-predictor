@@ -8,6 +8,8 @@ I used an updated Kaggle dataset from Paul Mooney, Peijen Lin, and Timo Bozsolik
 
 Each entry includes type of crime, address, coordiantes, crime code, incident time, etc.
 
+The dataset can be accesed here: https://www.kaggle.com/paultimothymooney/denver-crime-data?select=crime.csv
+
 ### [S]crub:
 After importing the appropriate libraries and data, I removed unnecessary columns and reassigned datatypes such as datetime for the dataset.
 
