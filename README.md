@@ -21,10 +21,11 @@ The dataset was sorted to only include data from this year. A heatmap over an Op
 ### [M]odel:
 I predicted crimes based off of 2020 crime data using several models and boosters. That includes K-Nearest Neighbor, Random Forest, Gradient Boost, XGBoost, and GridSearchCV. The highest yielding accuracy, precision, recall, and f-1 score came from KNN(K-Nearest Neighbor).
 
+![Report with Class](https://i.ibb.co/jWtFXgW/Flatiron-Capstone-KNN-class-rep.png)
+
 ### i[N]terpret:
 Using the insight and KNN model, we can see where crimes are happening and predict where an incident of crime will occur in Denver. This insight allows for the Denver government to better allocate resources to areas with higher likelihoods for crime to occur.
-The K-Nearest Neighbor model yielded the highest overall accuracy at **77%**.
-
+The K-Nearest Neighbor model yielded the highest overall results.
 
 ## Conclusion
 Using our dataset, the OSEMN process, machine learning, and visualization, geospatially savvy models were generated. With this information, opportunity arises. The analysis and predictive models within this project support the initiative of lowering crime in Denver. The best part is that this project's method of crime analysis and prediction can be used to minimze crime in other cities.
