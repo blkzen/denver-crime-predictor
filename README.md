@@ -16,6 +16,8 @@ After importing the appropriate libraries and data, I removed unnecessary column
 ### [E]xplore:
 The dataset was sorted to only include data from this year. A heatmap over an OpenEarth map was created. The top crimes in Denver for the year of 2020 were all vehicular crimes.
 
+![The Heatmap of Crime](https://media.giphy.com/media/j32Xn0BdIzkLx1mvb4/giphy.gif)
+
 ### [M]odel:
 I predicted crimes based off of 2020 crime data using several models and boosters. That includes K-Nearest Neighbor, Random Forest, Gradient Boost, XGBoost, and GridSearchCV. The highest yielding accuracy, precision, recall, and f-1 score came from KNN(K-Nearest Neighbor).
 
